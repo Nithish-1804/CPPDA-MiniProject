@@ -57,7 +57,7 @@ int main() {
         cout << "1. Add a task\n";
         cout << "2. Mark a task as complete\n";
         cout << "3. Delete a task\n";
-        cout << "4. List tasks\n";
+        cout << "4. Task Updates\n";
         cout << "5. Quit\n";
         cout << "Enter your choice: ";
         cin >> choice;
